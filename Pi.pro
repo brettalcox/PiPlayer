@@ -20,4 +20,4 @@ SOURCES += main.cpp\
 HEADERS  += player.h \
     playlist.h
 
-FORMS    += player.ui
+FORMS
